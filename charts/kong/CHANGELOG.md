@@ -23,6 +23,7 @@
 * Improved support and documentation for installations that [lack
   cluster-scoped permissions](https://github.com/Kong/charts/blob/main/charts/kong/README.md#removing-cluster-scoped-permissions).
   ([565](https://github.com/Kong/charts/pull/565))
+* Updated controller version to 2.3.
   
 ### Fixed
 
