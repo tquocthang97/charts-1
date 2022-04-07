@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+Nothing yet.
+
+## 2.8.0
+
 ### Improvements
 
 * feat(deployment) allow custom environment variables to be configured for the ingress-controller container
